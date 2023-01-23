@@ -1,4 +1,6 @@
 # SPS-AutoCompounder fork of https://github.com/BitcoinJake09/GLX-AutoCompunder
+From BitcoinJake09 #CryptoFam Discord: https://discord.gg/nCgrdbx
+
 uses python3.8+
 
 Linux by @bitcoinJake09:
